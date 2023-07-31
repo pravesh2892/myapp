@@ -1,0 +1,19 @@
+@import './common/Styles/fonts/Fonts.css';
+@import './common/Styles/Variables.css';
+@import './common/Styles/CommonClasses.css';
+@import './common/Styles/animations.css';
+
+body {
+  margin: 0;
+  font-family:Gilroy, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  background-color: #0f0f0f;
+  color: #f8f8f8;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
